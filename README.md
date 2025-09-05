@@ -23,3 +23,9 @@ Link : https://mavenanalytics.io/data-playground/pizza-place-sales
 2. Power BI
 
 # Key Findings
+
+# Power BI Dashboard
+
+# Conclusions
+
+# Recommendations
