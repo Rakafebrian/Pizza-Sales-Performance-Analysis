@@ -1,4 +1,4 @@
-# Analisis Pizza Sales Dataset
+# Pizza Sales Dataset Analysis
 
 # Overview Project
 This project analyzes pizza sales data using SQL for data querying and Power BI for visualization. The dataset used includes order details such as date, time, quantity, price, category, and pizza size. The analysis focuses on calculating important Key Performance Indicators and creating interactive charts to understand sales trends, customer preferences, and performance metrics. The goal of this project is to help pizza businesses optimize operations, identify best-selling products, and find areas for improvement. 
