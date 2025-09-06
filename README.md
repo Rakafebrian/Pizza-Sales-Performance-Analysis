@@ -30,8 +30,23 @@ Link : https://mavenanalytics.io/data-playground/pizza-place-sales
 5. Avg Pizza in Order : 2
 
 # Power BI Dashboard
+The Dashboard shows:
+- KPI cards for revenue, orders, and averages, with slicers categories, and sizes
+- Charts: Bar for daily orders, line for hourly trends, pie for preffered category/size
+- Bar charts highlight top/bottom 5 sellers by revenue, quantity, enabling dynamic filtering for insights
+
 
 
 # Conclusions
+1. The number of customers is listed on the **Peak Day chart**, where the busiest day is **Friday**, and the peak hours are **12-3 PM**.
+2. On average, customers order **2 pizzas per order**. The bestseller category is **'Classic,'** and the most popular pizza size is **'L'.**
+3. The company's total revenue this year is **$817,860**, and the seasonal peak occurs in **July**, where pizza orders reach their maximum.
+4. It's known that 'The Brie Carre Pizza' is in the bottom 5 for both total revenue and quantity, and the top 5 are 'Thai Chicken Pizza' and 'The Classic Deluxe Pizza' for both total revenue and quantity.
 
 # Recommendations
+1. Prioritize promotions on Fridays and between 12 PM and 3 PM, as these are peak days and peak hours.
+2. Maintain the Classic Pizza variant as the flagship product, as it is the most popular category.
+3. Encourage sales of the L size, for example with a “Buy 1 Get 1” promotion or family packages, as these are the most in demand.
+4. Consider reducing or innovating the recipe for The **Brie Carre Pizza** because its performance is **low** in terms of both **revenue and quantity.**
+5. Create a special seasonal campaign ahead of July to maximize peak sales momentum.
+6. Enhance your cross-selling strategy by offering a 2-pizza bundle based on the average customer order.
