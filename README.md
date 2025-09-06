@@ -23,8 +23,14 @@ Link : https://mavenanalytics.io/data-playground/pizza-place-sales
 2. Power BI
 
 # Key Findings
+1. Total Revenue : $ 817,860
+2. Avg Order Value (AOV) : $ 38.31
+3. Total Orders : 21,350
+4. Avg Order in a Day : 60
+5. Avg Pizza in Order : 2
 
 # Power BI Dashboard
+
 
 # Conclusions
 
