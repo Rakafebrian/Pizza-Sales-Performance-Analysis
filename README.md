@@ -35,7 +35,7 @@ The Dashboard shows:
 - Charts: Bar for daily orders, line for hourly trends, pie for preffered category/size
 - Bar charts highlight top/bottom 5 sellers by revenue, quantity, enabling dynamic filtering for insights
 
-![Pizza Sales Dashboard](Screenshot 2025-09-06 233520.png)
+![Deskripsi Gambar](Screenshot 2025-09-06 233520.png)
 
 # Conclusions
 1. The number of customers is listed on the **Peak Day chart**, where the busiest day is **Friday**, and the peak hours are **12-3 PM**.
