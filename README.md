@@ -48,6 +48,6 @@ The Dashboard shows:
 1. Prioritize promotions on Fridays and between 12 PM and 3 PM, as these are peak days and peak hours.
 2. Maintain the Classic Pizza variant as the flagship product, as it is the most popular category.
 3. Encourage sales of the L size, for example with a “Buy 1 Get 1” promotion or family packages, as these are the most in demand.
-4. Consider reducing or innovating the recipe for The **Brie Carre Pizza** because its performance is **low** in terms of both **revenue and quantity.**
+4. Consider innovating the recipe for The **Brie Carre Pizza** because its performance is **low** in terms of both **revenue and quantity.**
 5. Create a special seasonal campaign ahead of July to maximize peak sales momentum.
 6. Enhance your cross-selling strategy by offering a 2-pizza bundle based on the average customer order.
